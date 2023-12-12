@@ -32,6 +32,7 @@
 
 # 5. Installations
 - Open Visual Studio Code
+- Extract the given ```spotifybot.zip``` file into a folder of your choice.
 - To open the project click on File then click add folder to workspace and browse to the folder that contains the files for the bot (circled in red)
 - Click on the 3 dots at the top and press ```terminal``` then ```new terminal``` and select the folder with the files (next to the blue circle)
 ![alt text](./8.PNG)
