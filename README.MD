@@ -1,9 +1,8 @@
 ## STEPS FOR RUNNING THE SCRIPT : 
 
 # 1. Install Python:
-Download and install the latest version of python from the official website: 
-[Python](https://www.python.org/downloads/windows/)
-During installation, make sure to check the option that adds Python to the system PATH.
+- Download and install the latest version of python from the official website: [Python](https://www.python.org/downloads/windows/)
+- During installation, make sure to check the option that adds Python to the system PATH.
 
 # 2.Install a VSCODE:
 This is the text editor that we will use to edit and run the script
