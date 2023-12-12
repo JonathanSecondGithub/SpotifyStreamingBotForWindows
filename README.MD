@@ -38,3 +38,6 @@ pip install requests
 ```
 # 6. Enter the accounts
 - In the ```bash accounts.txt``` file enter the accounts in the following format : ```email:password```
+
+# 7. Enter the playlists
+- 
