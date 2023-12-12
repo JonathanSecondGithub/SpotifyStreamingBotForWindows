@@ -18,7 +18,7 @@
 - Then on windows search "edit the system environment variables" and click on it.
 - You should get a menu like this : 
 
-![My Image](C:/screenshots/EnvVars_SystemProperties)
+![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imatest.com%2Fsupport%2Fdocs%2F23-2%2Fediting-system-environment-variables%2F&psig=AOvVaw0DBf4aZP2pX1i_D838if-k&ust=1702489151963000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDQ4bu4ioMDFQAAAAAdAAAAABAD)
 
 - Then click the Environment Variables button at the bottom.
 
