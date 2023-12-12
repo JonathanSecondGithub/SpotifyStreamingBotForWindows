@@ -22,16 +22,14 @@
 
 - Then click the Environment Variables button at the bottom.
 - Under "System Variables" click on "path" and press "edit".
-- Then click on "new" , "browse" and select the folder that contains the chromedriver.exe file.
-- Open a command prompt (cmd) or PowerShell.
-- Navigate to the directory where you have your script using the cd command.
+- Then click on ```bash new``` , ```bash browse``` and select the folder that contains the ```bash chromedriver.exe ``` file.
 
 # 5. Installations
 - Open Visual Studio Code
-- To open the project click on File the click add folder to workspace and browse to the folder that contains the files for the bot
+- To open the project click on File then click add folder to workspace and browse to the folder that contains the files for the bot
 - Click on the 3 dots at the top and press terminal and select the folder with the files
 
-- In the terminal type the following each at a time waiting until the process is complete to procede :
+- In the terminal type the following, each at a time waiting until the process is complete to procede :
 (These are the libraries that the bot requires)
 
 ```bash
