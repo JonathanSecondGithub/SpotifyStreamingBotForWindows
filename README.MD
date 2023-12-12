@@ -41,3 +41,6 @@ pip install requests
 
 # 7. Enter the playlists
 - 
+
+# 8. Run the script
+- In the terminal enter ``` python spotify.py```
