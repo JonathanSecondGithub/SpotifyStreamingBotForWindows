@@ -18,7 +18,7 @@
 - Then on windows search ``` edit the system environment variables``` and click on it.
 - You should get a menu like this : 
 
-![alt text](4.png)
+![alt text](./4.png)
 
 - Then click the Environment Variables button at the bottom.
 - Under "System Variables" click on "path" and press "edit".
@@ -40,7 +40,7 @@ pip install requests
 - In the ```bash accounts.txt``` file enter the accounts in the following format : ```email:password```
 
 # 7. Enter the playlists
-![alt text](5.png)
+![alt text](./5.png)
 
 # 8. Run the script
 - In the terminal enter ```python spotify.py```
