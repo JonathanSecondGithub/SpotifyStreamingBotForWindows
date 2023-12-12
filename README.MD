@@ -70,5 +70,4 @@ email:password
 - In the terminal enter 
 ```python spotify.py```
 
-##### script should run and when done print the link and the song time that has been streamed
-##### Contact me : [email](jonamkariuki@gmail.com) [twitter](https://twitter.com/jonaxkariuki)
+##### script should run and when done print the link and the song time that has been streamed!
