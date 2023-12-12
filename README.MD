@@ -36,4 +36,5 @@
 pip install selenium
 pip install requests
 ```
-
+# 6. Enter the accounts
+- In the ```bash accounts.txt``` file enter the accounts in the following format : ```bash email:password```
