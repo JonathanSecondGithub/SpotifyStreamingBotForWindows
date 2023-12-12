@@ -14,6 +14,9 @@
 
 # 4. Download ChromeDriver:
 - Go to [chromedriver](https://googlechromelabs.github.io/chrome-for-testing/) scroll to stable and download the chromedriver ``` win64 zip file / win32``` based on your system.
+
+![alt text](./7.PNG)
+
 - Extract the zip file into a folder that you know the location of.
 - Then on windows search ``` edit the system environment variables``` and click on it.
 - You should get a menu like this : 
@@ -25,12 +28,13 @@
 
 ![alt text](./6.PNG)
 
-- Then click on ```new``` , ```browse``` and select the folder that contains the ```chromedriver.exe ``` file.
+- Then click on ```edit``` , ```browse``` and select the folder that contains the ```chromedriver.exe ``` file.
 
 # 5. Installations
 - Open Visual Studio Code
-- To open the project click on File then click add folder to workspace and browse to the folder that contains the files for the bot
-- Click on the 3 dots at the top and press terminal and select the folder with the files
+- To open the project click on File then click add folder to workspace and browse to the folder that contains the files for the bot (circled in red)
+- Click on the 3 dots at the top and press ```terminal``` then ```new terminal``` and select the folder with the files (circled in blue)
+![alt text](./8.PNG)
 
 - In the terminal type the following, each at a time waiting until the process is complete to procede :
 (These are the libraries that the bot requires)
@@ -40,7 +44,10 @@ pip install selenium
 pip install requests
 ```
 # 6. Enter the accounts
-- In the ```bash accounts.txt``` file enter the accounts in the following format : ```email:password```
+- In the ```accounts.txt``` file enter the accounts in the following format : 
+***
+email:password
+***
 
 # 7. Enter the playlists
 ![alt text](./5.PNG)
