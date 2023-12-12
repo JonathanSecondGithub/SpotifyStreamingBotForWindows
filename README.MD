@@ -16,27 +16,22 @@ Chrome : https://www.google.com/chrome/?brand=CHBD&brand=YTUH&gclid=CjwKCAiApuCr
 Go to https://googlechromelabs.github.io/chrome-for-testing/ scroll to stable and download the chromedriver win64 zip file / win32 based on your system.
 Extract the zip file into a folder that you know the location of.
 Then on windows search "edit the system environment variables" and click on it.
-You shoud get a menu like this : 
+You should get a menu like this : 
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imatest.com%2Fsupport%2Fdocs%2F23-2%2Fediting-system-environment-variables%2F&psig=AOvVaw1mgNn-8_7_dfWLBbnDtF8_&ust=1702474717582000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDxg9mCioMDFQAAAAAdAAAAABAD)
 
+Then click the Environment Variables button at the bottom.
 
+Under "System Variables" click on "path" and press "edit".
+
+Then click on "new" , "browse" and select the folder that contains the chromedriver.exe file.
 
 Open a command prompt (cmd) or PowerShell.
 
 Navigate to the directory where you have your script using the cd command.
 
-Run the following commands to create and activate a virtual environment:
-
-bash
-Copy code
-python -m venv venv
-venv\Scripts\activate
-Install Required Python Packages:
-
-While the virtual environment is activated, install the required Python packages using pip:
-
-bash
-Copy code
+5. Installations
+Open VisualStudio Code
 pip install selenium
 Run the Script:
 
