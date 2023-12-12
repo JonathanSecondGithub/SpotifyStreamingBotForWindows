@@ -22,6 +22,9 @@
 
 - Then click the Environment Variables button at the bottom.
 - Under "System Variables" click on "path" and press "edit".
+
+![alt text](./6.PNG)
+
 - Then click on ```new``` , ```browse``` and select the folder that contains the ```chromedriver.exe ``` file.
 
 # 5. Installations
