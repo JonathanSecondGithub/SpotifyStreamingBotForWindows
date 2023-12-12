@@ -1,4 +1,4 @@
-##STEPS FOR RUNNING THE SCRIPT : 
+## STEPS FOR RUNNING THE SCRIPT : 
 
 #1. Install Python:
 Download and install the latest version of python from the official website: https://www.python.org/downloads/windows/
