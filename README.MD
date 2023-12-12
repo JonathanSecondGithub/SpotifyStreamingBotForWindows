@@ -17,7 +17,7 @@
 
 ![alt text](./7.PNG)
 
-- Extract the zip file into a folder that you know the location of.
+- Extract the zip file into a folder that you know the location of (you will need this location later).
 - Then on windows search ``` edit the system environment variables``` and click on it.
 - You should get a menu like this : 
 
