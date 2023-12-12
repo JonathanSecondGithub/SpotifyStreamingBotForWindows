@@ -22,7 +22,7 @@
 
 - Then click the Environment Variables button at the bottom.
 - Under "System Variables" click on "path" and press "edit".
-- Then click on ```new``` , ```browse``` and select the folder that contains the ```bash chromedriver.exe ``` file.
+- Then click on ```new``` , ```browse``` and select the folder that contains the ```chromedriver.exe ``` file.
 
 # 5. Installations
 - Open Visual Studio Code
