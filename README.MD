@@ -13,7 +13,7 @@
 - [Chrome](https://www.google.com/chrome/?brand=CHBD&brand=YTUH&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JsWRQZ1zr9OxsR-MMiZe-N27lU6LRHSQy_VTu2j683PYcXyeVPD0LxoCpsQQAvD_BwE&gclsrc=aw.ds)
 
 # 4. Download ChromeDriver:
-- Go to [chromedriver](https://googlechromelabs.github.io/chrome-for-testing/) scroll to stable and download the chromedriver '```bash win64 zip file / win32``` based on your system.
+- Go to [chromedriver](https://googlechromelabs.github.io/chrome-for-testing/) scroll to stable and download the chromedriver ```bash win64 zip file / win32``` based on your system.
 - Extract the zip file into a folder that you know the location of.
 - Then on windows search "edit the system environment variables" and click on it.
 - You should get a menu like this : 
