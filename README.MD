@@ -50,7 +50,14 @@ email:password
 ***
 
 # 7. Enter the playlists
+- Go to the brower ans search for the song you want to stream
+- The song should be in an album like shown below
 ![alt text](./5.PNG)
+- To get the link highlight the text in the album and copy the link in the address bar.
+- Preferably each song should be in it's own album like shown below in the above image.
+- The enter the link and the song play time in the ```playlist.csv``` file as shown below : 
+![alt text](./9.PNG)
 
 # 8. Run the script
-- In the terminal enter ```python spotify.py```
+- In the terminal enter 
+```python spotify.py```
