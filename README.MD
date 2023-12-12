@@ -43,4 +43,4 @@ pip install requests
 - 
 
 # 8. Run the script
-- In the terminal enter ``` python spotify.py```
+- In the terminal enter ```python spotify.py```
