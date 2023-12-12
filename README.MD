@@ -38,7 +38,8 @@
 - In the terminal type the following each at a time waiting until the process is complete to procede :
 (These are the libraries that the bot requires)
 
-{pip install selenium}
-{pip install requests}
-
+```bash
+pip install selenium
+pip install requests
+```
 
