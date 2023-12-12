@@ -18,7 +18,7 @@
 - Then on windows search ``` edit the system environment variables``` and click on it.
 - You should get a menu like this : 
 
-![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imatest.com%2Fsupport%2Fdocs%2F23-2%2Fediting-system-environment-variables%2F&psig=AOvVaw0DBf4aZP2pX1i_D838if-k&ust=1702489151963000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDQ4bu4ioMDFQAAAAAdAAAAABAD)
+![alt text](4.png)
 
 - Then click the Environment Variables button at the bottom.
 - Under "System Variables" click on "path" and press "edit".
@@ -40,8 +40,7 @@ pip install requests
 - In the ```bash accounts.txt``` file enter the accounts in the following format : ```email:password```
 
 # 7. Enter the playlists
-
-
+![alt text](5.png)
 
 # 8. Run the script
 - In the terminal enter ```python spotify.py```
