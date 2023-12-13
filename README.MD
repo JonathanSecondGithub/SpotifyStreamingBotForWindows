@@ -67,8 +67,7 @@ email:password
 ![alt text](./9.PNG)
 
 # 8. Run the script
-- Run the ```chromedriver.exe``` application
-- In the terminal enter 
-```python spotify.py```
-
+- Run the ```chromedriver.exe``` application (this should remain running throughout the whole process)
+- To run the script click the run button on the top right of visual studio code with the ```spotify.py``` file open.
+![alt text](./10.PNG)
 ##### script should run and when done print the link and the song time that has been streamed!
