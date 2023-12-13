@@ -71,3 +71,6 @@ email:password
 - To run the script click the run button on the top right of visual studio code with the ```spotify.py``` file open.
 ![alt text](./10.PNG)
 ##### script should run and when done print the link and the song time that has been streamed!
+- currently the bot does 10 streams for every song on every account
+- to change this you can go to the ```spotify.py``` file and change the value below: 
+![alt text](./11.PNG)
